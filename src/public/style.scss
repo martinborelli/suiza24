@@ -1,0 +1,41 @@
+
+.navbar-collapse ul li a{
+
+    font-family: 'Spicy Rice';
+
+}
+
+.navbar-expand-lg .navbar-brand{
+
+    font-family: 'Spicy Rice', cursive;
+
+}
+
+.section-img{
+
+    background: #283c86;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #45a247, #283c86);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #45a247, #283c86); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    img{
+         display:block;
+          margin: auto;
+    }
+}
+
+.container-fluid {
+
+    background: #383b43;
+
+     section {
+             
+          padding: 10px 30px;
+          border-left: 2px solid white;
+        p {
+
+            color:#fff;
+            text-align: center;
+        }
+     }
+}
+
